@@ -1,4 +1,4 @@
-# CEB102_Project -- 好煮義 cook eat
+# 好煮義 cook eat -- 食譜推薦系統
 
 <img src="https://github.com/csi9061787/CEB102_Project/blob/main/cookeat_Image/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.png" width="500" height="300"/><br/>
 
